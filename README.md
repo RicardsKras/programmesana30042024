@@ -7,7 +7,7 @@ Grencione
 
 3
 
-4
+4 Ričards
 
 5
 
