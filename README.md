@@ -2,3 +2,4 @@
 atkārtojums
 darbs ar GitHub Desktop
 Spīdola
+Jelgava
